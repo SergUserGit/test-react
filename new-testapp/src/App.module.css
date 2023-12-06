@@ -11,3 +11,12 @@
 .navLink:hover {
   border-color: #00bfff;
 }
+
+.link {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.link:hover {
+  color: #008000;
+}
