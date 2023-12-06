@@ -1,0 +1,25 @@
+.mainHead {
+  text-align: center;
+  margin: 0;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.mainServicesHead {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.mainSection {
+  background-color: #f8f8ff;
+}
+
+.servicesList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.servicesListItem {
+  color: #0000ff;
+}
