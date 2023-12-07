@@ -1,0 +1,333 @@
+.backDrop {
+  background: rgba(18, 20, 23, 0.50);
+  width: 1440px;
+  min-height: 1051px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.modalDetail {
+  width: 541px;
+  border-radius: 24px;
+  background: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 40px;
+
+}
+
+.buttonClose {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+  border: none;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.image_test_big {
+  border-radius: 14px;
+  background: #F3F3F2;
+  margin-bottom: 14px;
+  width: 497px;
+  height: 268px;
+
+}
+
+.detailInfoAuto {
+  margin: 0;
+  margin-bottom: 8px;
+}
+
+.detailCharakterAuto {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  gap: 4px;
+  margin-bottom: 14px;
+}
+
+.detailDescription {
+  margin: 0;
+  margin-bottom: 24px;
+
+  color: #121417;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  font-family: 'Manrope';
+}
+
+.headAccessories {
+  margin: 0;
+  margin-bottom: 8px;
+
+  color: #121417;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  font-family: 'Manrope';
+}
+
+.detailAccessFunctionalAuto {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin: 0;
+  margin-bottom: 24px;
+  gap: 4px;
+}
+
+.headRentalConditions {
+  margin: 0;
+  margin-bottom: 13px;
+
+  color: #121417;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  font-family: 'Manrope';
+}
+
+.minimumAgeParagrah {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 35px;
+  background: #F9F9F9;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.rentalConditionTwo {
+  margin: 0;
+  border-radius: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #F9F9F9;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.rentalConditionThree {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 35px;
+  background: #F9F9F9;
+}
+
+.rentalConditionsGroupOne {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.rentalConditionsGroupTwo {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.mileAge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 35px;
+  background: #F9F9F9;
+}
+
+.price {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  border-radius: 35px;
+  background: #F9F9F9;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+.telRef {
+  text-decoration: none;
+  color: #FFF;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 12px;
+  background: #3470FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 108px;
+  font-family: 'Manrope';
+}
+
+.spanMakeDetail {
+  color: #121417;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.spanModelDetail {
+  color: #3470FF;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.spanSplitlDetail {
+  color: #121417;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.spanYearlDetail {
+  color: #121417;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.spanDetailCharakte {
+  color: rgba(18, 20, 23, 0.50);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-family: 'Manrope';
+}
+
+.spanAccessFunctional {
+  color: rgba(18, 20, 23, 0.50);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-family: 'Manrope';
+}
+
+.spanMinimumAgeDesc {
+  color: #363535;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
+
+.spanMinimumAgeValue {
+  color: #3470FF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
+
+.spanRentalConditionTwo {
+  color: #363535;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-family: 'Manrope';
+}
+
+.spanRentalConditionThree {
+  color: #363535;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-family: 'Manrope';
+}
+
+.spanMileageDesc {
+  color: #363535;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
+
+.spanMileageValue {
+  color: #3470FF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
+
+.spanPriceDesc {
+  color: #363535;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
+
+.spanPriceValue {
+  color: #3470FF;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: -0.24px;
+  font-family: 'Montserrat';
+}
