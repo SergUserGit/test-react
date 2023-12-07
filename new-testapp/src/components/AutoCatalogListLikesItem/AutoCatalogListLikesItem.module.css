@@ -1,0 +1,107 @@
+.buttonLike {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin-left: -42px;
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.itemLike {
+  display: flex;
+  align-items: flex-start;
+  max-width: 401px;
+  margin-bottom: 14px;
+}
+
+.imageAuto {
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(18, 20, 23, 0.50) 2.5%, rgba(18, 20, 23, 0.00) 41.07%), #F3F3F2;
+  width: 401px;
+  height: 268px;
+}
+
+.infoModelAuto {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.mainDivAuto {
+  display: flex;
+  flex-direction: column;
+  max-width: 401px;
+  position: relative;
+}
+
+.spanRentalPrice {
+  margin-left: auto;
+
+  color: #121417;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.paraghDateAuto {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0;
+  margin-bottom: 28px;
+}
+
+.buttonLeanMore {
+  border-radius: 12px;
+  background: #3470FF;
+  cursor: pointer;
+  border: none;
+  padding-left: 99px;
+  padding-right: 99px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.spanLeanMore {
+  color: #FFF;
+  font-size: 14px;
+  font-style: normal;
+  line-height: 20px;
+  font-family: 'Manrope';
+}
+
+.paragraphInfoAuto {
+  margin: 0;
+}
+
+.styleBlakInfo {
+  color: #121417;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.styleBlueInfo {
+  color: #3470FF;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  font-family: 'Manrope';
+}
+
+.spanAutoInfo {
+  color: rgba(18, 20, 23, 0.50);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  font-family: 'Manrope';
+}
