@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/test-react/static/css/main.fc54fcca.css",
-    "main.js": "/test-react/static/js/main.cfa8b1fe.js",
+    "main.js": "/test-react/static/js/main.b7f41d16.js",
     "static/css/781.6cb6a3e4.chunk.css": "/test-react/static/css/781.6cb6a3e4.chunk.css",
     "static/js/781.91cd012c.chunk.js": "/test-react/static/js/781.91cd012c.chunk.js",
-    "static/css/239.300101c2.chunk.css": "/test-react/static/css/239.300101c2.chunk.css",
-    "static/js/239.c2be96a0.chunk.js": "/test-react/static/js/239.c2be96a0.chunk.js",
+    "static/css/531.1827319d.chunk.css": "/test-react/static/css/531.1827319d.chunk.css",
+    "static/js/531.4b211654.chunk.js": "/test-react/static/js/531.4b211654.chunk.js",
     "static/js/787.cf09f45c.chunk.js": "/test-react/static/js/787.cf09f45c.chunk.js",
+    "static/media/heart_no_checked.svg": "/test-react/static/media/heart_no_checked.ac060e771360fcc26ebb0c86173c8396.svg",
+    "static/media/heart_checked.svg": "/test-react/static/media/heart_checked.623a3b874365d724c658e79a860ad4a4.svg",
     "index.html": "/test-react/index.html",
+    "static/media/icon_close.svg": "/test-react/static/media/icon_close.f3cbdd58dc25ca7cbb3d242106b56fb9.svg",
+    "static/media/split_auto.svg": "/test-react/static/media/split_auto.5dbce068a4e015f477e063ada8f4b6d7.svg",
     "main.fc54fcca.css.map": "/test-react/static/css/main.fc54fcca.css.map",
-    "main.cfa8b1fe.js.map": "/test-react/static/js/main.cfa8b1fe.js.map",
+    "main.b7f41d16.js.map": "/test-react/static/js/main.b7f41d16.js.map",
     "781.6cb6a3e4.chunk.css.map": "/test-react/static/css/781.6cb6a3e4.chunk.css.map",
     "781.91cd012c.chunk.js.map": "/test-react/static/js/781.91cd012c.chunk.js.map",
-    "239.300101c2.chunk.css.map": "/test-react/static/css/239.300101c2.chunk.css.map",
-    "239.c2be96a0.chunk.js.map": "/test-react/static/js/239.c2be96a0.chunk.js.map",
+    "531.1827319d.chunk.css.map": "/test-react/static/css/531.1827319d.chunk.css.map",
+    "531.4b211654.chunk.js.map": "/test-react/static/js/531.4b211654.chunk.js.map",
     "787.cf09f45c.chunk.js.map": "/test-react/static/js/787.cf09f45c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc54fcca.css",
-    "static/js/main.cfa8b1fe.js"
+    "static/js/main.b7f41d16.js"
   ]
 }
